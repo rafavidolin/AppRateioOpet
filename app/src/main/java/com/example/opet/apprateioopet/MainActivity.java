@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
     }
 
     public void calculaRateio(View view) {
-
+//comentário
         double comanda = Double.parseDouble(editComanda.getText().toString());
         double pessoas = Double.parseDouble(editPessoas.getText().toString());
 
